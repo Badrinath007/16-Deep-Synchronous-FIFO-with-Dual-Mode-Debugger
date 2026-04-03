@@ -1,0 +1,32 @@
+# Copyright (C) 2018  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Intel Program License 
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details.
+
+# Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+# File: /home/vboxuser/rtl/sync_fifo.csv
+# Generated on: Fri Apr  3 20:27:00 2026
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus Prime software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair,Strict Preservation
+CLOCK_50,Input,PIN_25,2,B2_N0,PIN_25,2.5 V,,,,,
+KEY0,Input,PIN_114,7,B7_N0,PIN_114,2.5 V,,,,,
+KEY1,Input,PIN_89,5,B5_N0,PIN_89,2.5 V,,,,,
+KEY2,Input,PIN_80,5,B5_N0,PIN_80,2.5 V,,,,,
+KEY3,Input,PIN_73,5,B5_N0,PIN_73,2.5 V,,,,,
+LED[4],Output,PIN_11,1,B1_N0,PIN_11,2.5 V,,,,,
+LED[3],Output,PIN_7,1,B1_N0,PIN_7,2.5 V,,,,,
+LED[2],Output,PIN_3,1,B1_N0,PIN_3,2.5 V,,,,,
+LED[1],Output,PIN_2,1,B1_N0,PIN_2,2.5 V,,,,,
+LED[0],Output,PIN_1,1,B1_N0,PIN_1,2.5 V,,,,,
+rst_n_btn,Input,PIN_88,5,B5_N0,PIN_88,2.5 V,,,,,
