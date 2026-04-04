@@ -56,6 +56,12 @@ This project implements a **16-entry synchronous FIFO** with debug signals mappe
 
 ---
 
+## Hardware DEMO
+
+![sync_fifo_fpga](https://github.com/user-attachments/assets/8f166c8a-e9a1-44a5-9e9b-90541fe8224b)
+
+---
+
 ## 📊 Conclusion
 The FIFO RTL and hardware testbench both behave exactly as designed:
 - Flags assert/deassert at correct thresholds.
