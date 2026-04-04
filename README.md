@@ -66,22 +66,8 @@ This confirms **functional correctness** of the FIFO implementation.
 
 ---
 
-## 🚀 Next Steps
-- Add waveform simulation for visual confirmation of pointer increments and flag transitions.
-- Extend debugger to capture read activity toggles.
-- Integrate into larger system designs for buffering and flow control.
-
----
-
-## 📅 Development Timeline
-- **Design & RTL Implementation:** February 2026  
-- **Board-Level Testing & Debugging:** March 2026  
-- **Deployment & Verification:** April 2026  
-
----
-
 ## 🎓 End Credits
-- **Developer:** Badrinath  
+- **Developer:** Badrinath Ayyamperumal
 - **Location:** Bengaluru East, India  
 - **Specialization:** Digital Circuit Design, FPGA Development, Hardware/Software Integration  
 - **Project Goal:** To demonstrate robust FIFO design with real-time hardware validation for recruiters and collaborators.  
